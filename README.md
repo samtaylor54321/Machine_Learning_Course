@@ -1,2 +1,2 @@
-# Machine_Learning_Course
+# Machine Learning Course
 Code for Coursera Machine Learning Course
